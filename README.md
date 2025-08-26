@@ -30,7 +30,8 @@ Example:
 
 - **Visual Studio 2022** (or another compatible IDE)  
 - **CUDA Toolkit**  
-- **NVIDIA GPU** with CUDA support  
+- **NVIDIA GPU** with CUDA support
+- **Windows OS**
 
 ---
 
