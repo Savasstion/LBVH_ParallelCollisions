@@ -1,0 +1,22 @@
+Average frame time: 2.08501 milliseconds
+Total runtime: 0.913235 seconds
+Total frames: 438
+
+[CUDA]
+CUDA average frame time: 0 milliseconds
+CUDA total runtime: 0 seconds
+CUDA Parallel Fraction (P): 0
+CUDA Theoretical Speedup (S): 1
+
+[OpenMP]
+OpenMP average frame time: 0 milliseconds
+OpenMP total runtime: 0 seconds
+OpenMP Parallel Fraction (P): 0
+OpenMP Theoretical Speedup (S): 1
+
+[MPI]
+MPI average frame time: 0 milliseconds
+MPI total runtime: 0 seconds
+MPI Parallel Fraction (P): 0
+MPI Theoretical Speedup (S): 1
+
