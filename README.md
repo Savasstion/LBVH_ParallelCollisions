@@ -1,4 +1,4 @@
-# LBVH Parallel Collisions
+# LBVH and Parallel Collisions
 
 ## Usage
 
