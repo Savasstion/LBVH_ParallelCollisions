@@ -4,6 +4,11 @@
 
 This project implements an Linear Bounding Volume Hierarchy (LBVH) by Karras (2012) to construct a Bounding Volume Hierarchy (BVH) in parallel to accelerate collision detection in a scene as well as doing collision resolutions in parallel as well. With all these, a scene can process collisions of thousands of particles on the scene optimally.
 
+<img width="784" height="791" alt="ParallelCollisionsDemo" src="https://github.com/user-attachments/assets/b0b117d8-e2df-48bd-98e4-15fd56cc70b8" />
+
+(Image of collisions being simulated for 8000 particles using CUDA with a RTX 4070)
+
+
 ## Usage
 
 Open a terminal in the `x64\Debug` directory and run:
