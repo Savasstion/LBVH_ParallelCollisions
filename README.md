@@ -1,5 +1,9 @@
 # LBVH and Parallel Collisions
 
+## Overview
+
+This project implements an Linear Bounding Volume Hierarchy (LBVH) by Karras (2012) to construct a Bounding Volume Hierarchy (BVH) in parallel to accelerate collision detection in a scene as well as doing collision resolutions in parallel as well. With all these, a scene can process collisions of thousands of particles on the scene optimally.
+
 ## Usage
 
 Open a terminal in the `x64\Debug` directory and run:
@@ -37,4 +41,8 @@ Example:
 
 ## Notes
 
-- If `LBVH_ParallelCollisions.exe` is missing, build the project in **Debug** mode.  
+- If `LBVH_ParallelCollisions.exe` is missing, build the project in **Debug** mode.
+
+## References
+Karras, T. (2012). Maximizing parallelism in the construction of BVHs, octrees, and k-d trees. High Performance Graphics, 33–37. https://doi.org/10.5555/2383795.2383801
+
